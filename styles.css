@@ -1,0 +1,26 @@
+.head{
+    background-color: orange;
+    text-align: center;
+    padding: auto;
+    font-size:10vh;
+}
+
+.recipeslist{
+    
+}
+
+.recipes{
+    text-align: center;
+    font-weight: normal;
+    color: black;
+    padding:1em;
+    font-size: 3vh;
+}
+
+.recipesimg{
+    display:block;
+    width: 25vh;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
